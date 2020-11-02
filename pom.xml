@@ -1001,7 +1001,7 @@
 		<openmrs.version>${project.version}</openmrs.version>
 
 		<springVersion>4.3.1.RELEASE</springVersion>
-		<hibernateVersion>5.3.18.Final</hibernateVersion>
+		<hibernateVersion>5.4.19.Final</hibernateVersion>
 		<customArgLineForTesting/>
 
 		<sonar.host.url>https://sonar.openmrs.org/sonar</sonar.host.url>
